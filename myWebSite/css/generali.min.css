@@ -1,0 +1,18 @@
+body {
+    background-color: #fff
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #1d7390;
+    font-size: 40px;
+    margin-top: 60px;
+    margin-left: 30px
+}
